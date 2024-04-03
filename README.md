@@ -1,6 +1,6 @@
 # Seattle-Weather
 
-Title: Project 1
+Title: Project 1 (Rainfall Comparison)
 
 Description: Comparing rainfall between Seattle and New York
 
