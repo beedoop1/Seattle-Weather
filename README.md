@@ -1,8 +1,8 @@
 # Seattle-Weather
 
-Title: Project 1 (Rainfall Comparison)
+## Title: Project 1 (Rainfall Comparison)
 
-Description: Comparing rainfall between Seattle and New York
+### Description: Comparing rainfall between Seattle and New York
 
 Data: The data was obtained by the National Centers for Environmental Information (NOAA). They provide many environmental precipitation, but we will be using the data of daily precipitation provided by the NOAA.
 
